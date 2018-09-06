@@ -1,0 +1,9 @@
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\bin\Debug\Azara Video Poker.exe.config
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\bin\Debug\Azara Video Poker.exe
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\bin\Debug\Azara Video Poker.pdb
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\obj\Debug\Azara Video Poker.csprojResolveAssemblyReference.cache
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\obj\Debug\Azara_Video_Poker.frmPoker.resources
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\obj\Debug\Azara_Video_Poker.Properties.Resources.resources
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\obj\Debug\Azara Video Poker.csproj.GenerateResource.Cache
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\obj\Debug\Azara Video Poker.exe
+C:\Users\jarre\Source\Repos\CsharpFinal2\Azara Video Poker\obj\Debug\Azara Video Poker.pdb
